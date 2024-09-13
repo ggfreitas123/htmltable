@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: 0;
+}
+.cabeca{
+    color: rgb(255, 255, 255);
+}
+.table{
+    border: 2px solid;
+    width : 100 px;
+    
+}
+.tdh{
+    text-align: center;
+    border: 2px solid beige;
+    padding: 10px;
+}
+
+.td,th{
+    border: 2px solid beige;
+    padding: 10px;
+}
